@@ -1,4 +1,4 @@
-# FileUpload
+# File Upload
 
 ## Here's an example of how you can use it in a form:
 ```php
