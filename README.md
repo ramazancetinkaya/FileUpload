@@ -1,5 +1,4 @@
 # FileUpload
-File upload class 
 
 ## Here's an example of how you can use it in a form:
 ```php
@@ -12,7 +11,7 @@ try {
 }
 ```
 
-### Author
+### Authors
 
 **Ramazan Çetinkaya**
 
